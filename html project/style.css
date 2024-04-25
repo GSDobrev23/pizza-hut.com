@@ -1,0 +1,83 @@
+.h1home {
+    text-align: center;
+    text-decoration: double;
+    color: rgba(36, 2, 2, 0.801);
+    font-size: 40px;
+    }
+    h1 {
+        text-align: center;
+        text-decoration: double;
+        color: rgba(36, 2, 2, 0.801);
+        font-size: 40px;
+    }
+  
+    .h1about {
+        text-align: center;
+    text-decoration: double;
+    color: rgba(36, 2, 2, 0.801);
+    font-size: 40px;
+    }
+    .navbar ul{
+        
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    
+        
+        }
+         
+        .navbar a{
+            background-color: rgb(161, 161, 132);
+            color:rgb(222, 231, 221);
+            text-decoration: none;
+            padding:20px;
+            text-align:center;
+            display: block;
+            font-size: 20px;
+            
+           
+
+        }
+        .navbar a:hover{
+            background-color: rgb(32, 30, 30);
+        }
+        .navbar li{
+            float:left;
+            
+           
+        }
+        .navbar {
+            overflow: hidden;
+            width: 500px;
+            margin: auto;
+        }
+        body {
+
+            background-color:beige ;
+
+        }
+
+        .pizza{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 20%;
+            height: 50%;
+        } 
+       
+        b{
+            font-size: 20px;
+        }
+
+        strong{
+
+            font-size: 25px;
+        }
+        
+        p{
+            color: rgb(21, 83, 3);
+        }
+        b{
+            color: rgb(110, 4, 4);
+        }
